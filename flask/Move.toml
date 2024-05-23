@@ -1,8 +1,8 @@
 [package]
 name = "Flask"
 edition = "2024.beta" # edition = "legacy" to use legacy (pre-2024) Move
-published-at="0x1798f84ee72176114ddbf5525a6d964c5f8ea1b3738d08d50d0d3de4cf584884"
-# published-at = "0xd74e21d83d688ae21c5383b64530653c0e568a41e7a4d7aaac4a34a542bf07f8"
+# published-at="0x1798f84ee72176114ddbf5525a6d964c5f8ea1b3738d08d50d0d3de4cf584884"
+published-at = "0xd74e21d83d688ae21c5383b64530653c0e568a41e7a4d7aaac4a34a542bf07f8"
 # license = ""           # e.g., "MIT", "GPL", "Apache 2.0"
 # authors = ["..."]      # e.g., ["Joe Smith (joesmith@noemail.com)", "John Snow (johnsnow@noemail.com)"]
 
